@@ -4,3 +4,7 @@ The purpose of this repository is to help me learn and apply my understanding of
 # Structure
 The project is divided into milestones where I will focus on one to a few aspects, and subsequent milestones will build upon the previous.
 
+# Milestone 1
+- Start with some sample data
+- Create python functions for filtering, getting the sum, and getting the max values in the data
+- Assume objects in the list always contain the 3 key-value pairs, and the list could be empty
