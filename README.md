@@ -13,3 +13,7 @@ The project is divided into milestones where I will focus on one to a few aspect
 - Create pytests for each function
 - Introduced bug in functions by adding fragmented data (challenges assumption in milestone 1)
 - Learned how to run pytests, assert, and quietly read errors
+
+# Milestone 3
+- Create and compare different representations of the readings data (dataclass, Pydantic)
+- Add validations for the data
